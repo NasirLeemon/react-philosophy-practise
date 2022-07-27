@@ -1,0 +1,22 @@
+.random {
+    display : inline-block;
+    width : 100px;
+    height : 100px;
+    background-color : palevioletred;
+    color : #fff;
+    line-height : 100px;
+    font-weight : bolder;
+    font-size : 30px;
+    margin-right : 10px;
+    text-align : center;
+    border-radius : 100%;
+}
+
+
+.even{
+    color: greenyellow;
+}
+
+.odd{
+    color: coral;
+}
